@@ -1,5 +1,5 @@
 {
-  "build_hash": "cda5316b8c1e08cf061922d15dba710f",
+  "build_hash": "56f4ae371231d0bcb436439e0767aa5e",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2283,6 +2283,10 @@
     {
       "code": "0xf2c2",
       "name": "no-smoking"
+    },
+    {
+      "code": "0xf14e",
+      "name": "nomad"
     },
     {
       "code": "0xf2a4",
