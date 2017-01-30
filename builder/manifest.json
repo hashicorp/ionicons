@@ -1,5 +1,5 @@
 {
-  "build_hash": "30b3954a009eb45bc63267d508aec963",
+  "build_hash": "e1260e3dc76721569f11e10e27343d5e",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -677,6 +677,10 @@
       "name": "beer"
     },
     {
+      "code": "0xf14f",
+      "name": "bitbucket"
+    },
+    {
       "code": "0xf116",
       "name": "bluetooth"
     },
@@ -963,6 +967,10 @@
     {
       "code": "0xf13e",
       "name": "gear-b"
+    },
+    {
+      "code": "0xf150",
+      "name": "gitlab"
     },
     {
       "code": "0xf13f",
