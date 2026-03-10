@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2013, 2017
+# SPDX-License-Identifier: MIT
+
 # Font generation script from FontCustom
 # https://github.com/FontCustom/fontcustom/
 # http://fontcustom.com/

@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2013, 2017
+# SPDX-License-Identifier: MIT
+
 from subprocess import call
 import os
 import json
